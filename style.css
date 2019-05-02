@@ -135,7 +135,7 @@
      clear: both;
  }
 
- /*共通元素（選單＋頁尾）*/
+ /*å…±é€šå…ƒç´ ï¼ˆé¸å–®ï¼‹é å°¾ï¼‰*/
  .wrap {
      width: 1300px;
      margin: 0 auto;
@@ -151,7 +151,7 @@
      position: relative;
      left: 150px;
      top: 0;
-失敗gg}*/
+å¤±æ•—gg}*/
 
  #teller {
      position: relative;
@@ -170,7 +170,7 @@
      bottom: 10px;
  }
 
- /*首頁*/
+ /*é¦–é */
  /*.header img{
      z-index: 10;   
 }*/
@@ -280,11 +280,11 @@
      float: right;
      margin-right: 50px;
      margin-top: 140px;
-     /*待去背圖*/
+     /*å¾…åŽ»èƒŒåœ–*/
      /*box-shadow: 1px 1px 1px gray;*/
  }
 
- /*適齡推薦*/
+ /*é©é½¡æŽ¨è–¦*/
  .yearsold_select {
      position: relative;
      width: 1300px;
@@ -556,7 +556,7 @@
  }
 
 
- /*主題探索*/
+ /*ä¸»é¡ŒæŽ¢ç´¢*/
  .theme_container {
      position: relative;
      width: 1000px;
@@ -656,7 +656,7 @@
      height: 180px;
      z-index: 1;
      top: 100px;
-    left: 378px;
+     left: 378px;
      border-radius: 50%;
      background-color: #fb7600;
  }
@@ -685,7 +685,7 @@
      background-color: #c44537;
  }
 
- /*主題引導頁面*/
+ /*ä¸»é¡Œå¼•å°Žé é¢*/
  .theme {
      margin-top: 40px;
      width: 210px;
@@ -699,23 +699,25 @@
  }
 
  .bookslide {
-     width: 280px;
-     height: 2340px;
+     width: 340px;
+     height: 2320px;
      background: #eea471;
      margin: 0 auto;
-     margin-bottom: 150px;
+     margin-bottom: 370px;
  }
 
  .bookslide img {
+     border: 30px #9e4132 solid;
+     border-radius: 10%;
      margin-bottom: 200px;
  }
 
  .bookslide a {
-     margin-left: -70px;
+     margin-left: -65px;
  }
 
  .bookslide ul {
-     margin-left: -10px;
+     margin-left: 20px;
  }
 
  .bookslide ul li a {
@@ -732,7 +734,7 @@
      text-align: center;
  }
 
- /*自製童書*/
+ /*èªªæ›¸ç”Ÿ*/
  .map_body img {
      display: block;
      margin: auto;
@@ -936,7 +938,7 @@
  }
 
 
- /*關於我們*/
+ /*é—œæ–¼æˆ‘å€‘*/
  h1 a {
      background-image: url(images/homepage_logo.png);
      display: block;
