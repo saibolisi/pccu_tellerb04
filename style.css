@@ -519,6 +519,7 @@
  }
 
  .go_1 a img {
+     background: white;
      float: right;
      width: 142px;
      border-radius: 50%;
@@ -549,6 +550,7 @@
  }
 
  .go_2 div a img {
+     background: white;
      float: right;
      width: 142px;
      border-radius: 50%;
